@@ -17,7 +17,7 @@ This project demonstrates how to write a simple game in C program and build the 
 
 2. cd SimpleMakefile && make
 
-3./quiz
+3. ./quiz
 
 
 * Suggestations and questions are welcome!!
