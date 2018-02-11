@@ -19,5 +19,9 @@ This project demonstrates how to write a simple game in C program and build the 
 
 3. ./quiz
 
+##References
+1. http://www.codeincodeblock.com/2011/06/mini-project-quiz-in-c.html
+
+2. Youtube channel: ProgrammingKnowledge
 
 * Suggestations and questions are welcome!!
