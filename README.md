@@ -24,4 +24,3 @@ This project demonstrates how to write a simple game in C program and build the 
 
 2. Youtube channel: ProgrammingKnowledge
 
-* Suggestations and questions are welcome!!
